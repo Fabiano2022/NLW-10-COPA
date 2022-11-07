@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O calendário copa é um projeto que mostra a data, o dia e os adversários no brasil na primeira fase da copa.
+O projeto Calendário da Copa é um projeto que mostra a data, o dia e os adversários no Brasil na primeira fase da copa.
 
 ## 🔖 Layout
 
@@ -44,4 +44,3 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
