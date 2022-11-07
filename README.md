@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto Calendário da Copa é um projeto que mostra a data, o dia e os adversários no Brasil na primeira fase da copa.
+O projeto Calendário da Copa é um projeto que mostra a data, o dia, o horário e os adversários no Brasil na primeira fase da copa.
 
 ## 🔖 Layout
 
